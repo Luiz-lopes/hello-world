@@ -2,6 +2,6 @@
 Starting with github
 
 Start repository tutorial for github.
-I am a project manager, bartender and a coder hobbist.
+Moving data from point A to Point B.
 
 
